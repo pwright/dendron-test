@@ -4,7 +4,7 @@ vaults:
         fsPath: vault
 useFMTitle: true
 site:
-    siteUrl: http://localhost:8080
+    siteUrl: https://pwright.github.io/dendron-test/
     copyAssets: true
     siteHierarchies:
         - root
