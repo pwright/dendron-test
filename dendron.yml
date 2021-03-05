@@ -4,13 +4,13 @@ vaults:
         fsPath: vault
 useFMTitle: true
 site:
-    siteUrl: https://pwright.github.io/dendron-test/
+    siteUrl: https://pwright.github.io/skupper-notes/
     copyAssets: true
     siteHierarchies:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: My Notes
+    title: My Skuper Notes
     description: Personal knowledge space
     duplicateNoteBehavior:
         action: useVault
