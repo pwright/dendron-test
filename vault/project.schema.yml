@@ -1,0 +1,17 @@
+# schema for skupper-clis
+# the following schema will match the follwoing
+# 
+# skupper-cli.foo.version
+# skupper-cli.foo.version.v0.3.4
+
+version: 1
+imports:
+  - version
+schemas:
+- id: skupper-cli
+  title: skupper-cli
+  desc: "skupper-cli option"
+  parent: root
+  namespace: true
+  children:
+    - version.version
