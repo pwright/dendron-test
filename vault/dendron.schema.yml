@@ -1,0 +1,9 @@
+- id: dendron
+  parent: root
+  children:
+    - topic
+- id: topic
+  data: 
+    namespace: true 
+- id: faq
+- id: tips

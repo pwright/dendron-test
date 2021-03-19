@@ -4,7 +4,7 @@ vaults:
         fsPath: vault
 useFMTitle: true
 site:
-    siteUrl: https://pwright.github.io/skupper-notes/
+    siteUrl: http://127.0.0.1:8080/
     copyAssets: true
     siteHierarchies:
         - root
