@@ -1,9 +1,9 @@
 ---
-id: auto-178da81438612a688
+id: auto-178daf6862e6e5910
 title: 'entityTypes.router.node.attributes.cost.description'
 desc: ''
-updated: 1618573607814
-created: 1618573607814
+updated: 1618581292590
+created: 1618581292590
 ---
 # entityTypes.router.node.attributes.cost.description
 

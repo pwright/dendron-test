@@ -1,9 +1,9 @@
 ---
-id: auto-178da816798753457
+id: auto-178daf6b0625ab81b
 title: 'entityTypes.console.attributes.home.description'
 desc: ''
-updated: 1618573617048
-created: 1618573617048
+updated: 1618581303394
+created: 1618581303394
 ---
 # entityTypes.console.attributes.home.description
 

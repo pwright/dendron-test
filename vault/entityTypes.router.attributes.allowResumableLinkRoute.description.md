@@ -1,9 +1,9 @@
 ---
-id: auto-178da80536a867372
+id: auto-178daf5997579bff5
 title: 'entityTypes.router.attributes.allowResumableLinkRoute.description'
 desc: ''
-updated: 1618573546346
-created: 1618573546346
+updated: 1618581231989
+created: 1618581231989
 ---
 # entityTypes.router.attributes.allowResumableLinkRoute.description
 

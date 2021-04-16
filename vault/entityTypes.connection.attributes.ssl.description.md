@@ -1,9 +1,9 @@
 ---
-id: auto-178da8154ed4f34d0
+id: auto-178daf69408384cb2
 title: 'entityTypes.connection.attributes.ssl.description'
 desc: ''
-updated: 1618573612270
-created: 1618573612270
+updated: 1618581296136
+created: 1618581296136
 ---
 # entityTypes.connection.attributes.ssl.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da802df88d184a
+id: auto-178daf56ebe5685e5
 title: 'entityTypes.org.amqp.management.operationDefs.GET-OPERATIONS.description'
 desc: ''
-updated: 1618573536760
-created: 1618573536760
+updated: 1618581221054
+created: 1618581221054
 ---
 # entityTypes.org.amqp.management.operationDefs.GET-OPERATIONS.description
 

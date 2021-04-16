@@ -1,9 +1,9 @@
 ---
-id: auto-178da80a78265ccea
+id: auto-178daf5efc63283d3
 title: 'entityTypes.connector.attributes.maxSessions.description'
 desc: ''
-updated: 1618573567874
-created: 1618573567874
+updated: 1618581254087
+created: 1618581254087
 ---
 # entityTypes.connector.attributes.maxSessions.description
 

@@ -1,10 +1,10 @@
 ---
-id: auto-178da818ab4737ec
+id: auto-178daf6d6265d421a
 title: 'entityTypes.vhostUserGroupSettings.attributes.targetPattern.description'
 desc: ''
-updated: 1618573626037
-created: 1618573626037
+updated: 1618581313062
+created: 1618581313062
 ---
 # entityTypes.vhostUserGroupSettings.attributes.targetPattern.description
 
-A wildcarded pattern for matching target addresses to which users in this group may send messages. The pattern consists of one or more tokens separated by a forward slash &#39;/&#39;. A token can be one of the following: a * character
+A wildcarded pattern for matching target addresses to which users in this group may send messages. The pattern consists of one or more tokens separated by a forward slash &#39;/&#39;. A token can be one of the following: a * character, a # character, or a sequence of characters that do not include /, *, or #.  The * token matches any single token.  The # token matches zero or more tokens. * has higher precedence than #, and exact match has the highest precedence. To specify multiple addresses, separate the addresses with either a comma or a space. You can use the text string &#39;&#39; in a token to specify an address that contains a user&#39;s authenticated user name. If you do not specify any addresses, users in this group are not allowed to send messages to any addresses. You may specify attributes &#39;targets&#39; or &#39;targetPattern&#39; but not both at the same time.

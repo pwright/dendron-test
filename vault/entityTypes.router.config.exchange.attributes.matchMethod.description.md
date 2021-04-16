@@ -1,9 +1,9 @@
 ---
-id: auto-178da8101cc5e1553
+id: auto-178daf64dca7e274e
 title: 'entityTypes.router.config.exchange.attributes.matchMethod.description'
 desc: ''
-updated: 1618573590988
-created: 1618573590988
+updated: 1618581278154
+created: 1618581278154
 ---
 # entityTypes.router.config.exchange.attributes.matchMethod.description
 

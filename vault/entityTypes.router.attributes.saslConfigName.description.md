@@ -1,9 +1,9 @@
 ---
-id: auto-178da80529e2783b3
+id: auto-178daf59871547032
 title: 'entityTypes.router.attributes.saslConfigName.description'
 desc: ''
-updated: 1618573546142
-created: 1618573546142
+updated: 1618581231729
+created: 1618581231729
 ---
 # entityTypes.router.attributes.saslConfigName.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da805a7735bdfb
+id: auto-178daf5a1244de782
 title: 'entityTypes.router.attributes.blockedLinkCount.description'
 desc: ''
-updated: 1618573548151
-created: 1618573548151
+updated: 1618581233956
+created: 1618581233956
 ---
 # entityTypes.router.attributes.blockedLinkCount.description
 

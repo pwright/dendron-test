@@ -1,9 +1,9 @@
 ---
-id: auto-178da80852337684e
+id: auto-178daf5cf003722a8
 title: 'entityTypes.listener.attributes.cost.description'
 desc: ''
-updated: 1618573559075
-created: 1618573559075
+updated: 1618581245696
+created: 1618581245696
 ---
 # entityTypes.listener.attributes.cost.description
 

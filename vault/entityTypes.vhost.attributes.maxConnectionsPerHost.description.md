@@ -1,9 +1,9 @@
 ---
-id: auto-178da81758847c91c
+id: auto-178daf6c0a586be35
 title: 'entityTypes.vhost.attributes.maxConnectionsPerHost.description'
 desc: ''
-updated: 1618573620616
-created: 1618573620616
+updated: 1618581307557
+created: 1618581307557
 ---
 # entityTypes.vhost.attributes.maxConnectionsPerHost.description
 

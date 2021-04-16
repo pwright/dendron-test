@@ -1,9 +1,9 @@
 ---
-id: auto-178da804d04287f82
+id: auto-178daf58fb359c9f9
 title: 'entityTypes.router.attributes.helloMaxAgeSeconds.description'
 desc: ''
-updated: 1618573544708
-created: 1618573544708
+updated: 1618581229491
+created: 1618581229491
 ---
 # entityTypes.router.attributes.helloMaxAgeSeconds.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da8165ae11899a
+id: auto-178daf6aeb18c2363
 title: 'entityTypes.console.attributes.wsport.description'
 desc: ''
-updated: 1618573616558
-created: 1618573616558
+updated: 1618581302961
+created: 1618581302961
 ---
 # entityTypes.console.attributes.wsport.description
 

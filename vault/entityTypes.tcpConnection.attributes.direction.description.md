@@ -1,9 +1,9 @@
 ---
-id: auto-178da815e2a8aea0a
+id: auto-178daf6a46d3febcc
 title: 'entityTypes.tcpConnection.attributes.direction.description'
 desc: ''
-updated: 1618573614634
-created: 1618573614634
+updated: 1618581300333
+created: 1618581300333
 ---
 # entityTypes.tcpConnection.attributes.direction.description
 

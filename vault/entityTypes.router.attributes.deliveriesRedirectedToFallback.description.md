@@ -1,9 +1,9 @@
 ---
-id: auto-178da806e18219bca
+id: auto-178daf5b7ac600559
 title: 'entityTypes.router.attributes.deliveriesRedirectedToFallback.description'
 desc: ''
-updated: 1618573553176
-created: 1618573553177
+updated: 1618581239724
+created: 1618581239724
 ---
 # entityTypes.router.attributes.deliveriesRedirectedToFallback.description
 

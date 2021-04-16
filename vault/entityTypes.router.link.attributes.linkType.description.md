@@ -1,10 +1,10 @@
 ---
-id: auto-178da810de1bde75
+id: auto-178daf659812d2e2b
 title: 'entityTypes.router.link.attributes.linkType.description'
 desc: ''
-updated: 1618573594081
-created: 1618573594081
+updated: 1618581281153
+created: 1618581281153
 ---
 # entityTypes.router.link.attributes.linkType.description
 
-Type of link: endpoint: a link to a normally connected endpoint; inter-router: a link to another router in the network.
+Type of link: endpoint: a link to a normally connected endpoint

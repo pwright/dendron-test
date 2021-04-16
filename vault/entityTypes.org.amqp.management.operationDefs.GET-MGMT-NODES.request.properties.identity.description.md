@@ -1,9 +1,9 @@
 ---
-id: auto-178da8037b354157d
+id: auto-178daf579131d173f
 title: 'entityTypes.org.amqp.management.operationDefs.GET-MGMT-NODES.request.properties.identity.description'
 desc: ''
-updated: 1618573539251
-created: 1618573539251
+updated: 1618581223699
+created: 1618581223699
 ---
 # entityTypes.org.amqp.management.operationDefs.GET-MGMT-NODES.request.properties.identity.description
 

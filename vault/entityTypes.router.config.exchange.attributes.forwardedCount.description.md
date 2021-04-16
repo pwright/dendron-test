@@ -1,9 +1,9 @@
 ---
-id: auto-178da810522aca61
+id: auto-178daf651208421a8
 title: 'entityTypes.router.config.exchange.attributes.forwardedCount.description'
 desc: ''
-updated: 1618573591842
-created: 1618573591842
+updated: 1618581279008
+created: 1618581279008
 ---
 # entityTypes.router.config.exchange.attributes.forwardedCount.description
 

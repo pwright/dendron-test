@@ -1,9 +1,9 @@
 ---
-id: auto-178da8144d6832394
+id: auto-178daf68721125368
 title: 'entityTypes.router.node.attributes.lastTopoChange.description'
 desc: ''
-updated: 1618573608150
-created: 1618573608150
+updated: 1618581292833
+created: 1618581292833
 ---
 # entityTypes.router.node.attributes.lastTopoChange.description
 

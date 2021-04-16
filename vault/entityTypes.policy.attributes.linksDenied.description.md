@@ -1,9 +1,9 @@
 ---
-id: auto-178da816f4e3551c4
+id: auto-178daf6b92f18f026
 title: 'entityTypes.policy.attributes.linksDenied.description'
 desc: ''
-updated: 1618573619022
-created: 1618573619022
+updated: 1618581305647
+created: 1618581305647
 ---
 # entityTypes.policy.attributes.linksDenied.description
 

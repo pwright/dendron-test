@@ -1,9 +1,9 @@
 ---
-id: auto-178da81767f9f6fb
+id: auto-178daf6c1aa50b9ec
 title: 'entityTypes.vhost.attributes.allowUnknownUser.description'
 desc: ''
-updated: 1618573620863
-created: 1618573620863
+updated: 1618581307818
+created: 1618581307818
 ---
 # entityTypes.vhost.attributes.allowUnknownUser.description
 

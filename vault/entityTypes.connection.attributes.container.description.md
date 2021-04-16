@@ -1,9 +1,9 @@
 ---
-id: auto-178da814ba127609e
+id: auto-178daf68b938c46df
 title: 'entityTypes.connection.attributes.container.description'
 desc: ''
-updated: 1618573609889
-created: 1618573609889
+updated: 1618581293971
+created: 1618581293971
 ---
 # entityTypes.connection.attributes.container.description
 

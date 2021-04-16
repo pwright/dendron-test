@@ -1,9 +1,9 @@
 ---
-id: auto-178da8098585b64e5
+id: auto-178daf5dfc284a80c
 title: 'entityTypes.listener.attributes.healthz.description'
 desc: ''
-updated: 1618573563992
-created: 1618573563992
+updated: 1618581249986
+created: 1618581249986
 ---
 # entityTypes.listener.attributes.healthz.description
 

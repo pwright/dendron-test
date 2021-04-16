@@ -1,9 +1,9 @@
 ---
-id: auto-178da8099438c6906
+id: auto-178daf5e09c25ab0a
 title: 'entityTypes.listener.attributes.metrics.description'
 desc: ''
-updated: 1618573564227
-created: 1618573564227
+updated: 1618581250204
+created: 1618581250204
 ---
 # entityTypes.listener.attributes.metrics.description
 

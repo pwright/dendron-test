@@ -1,9 +1,9 @@
 ---
-id: auto-178da803d09637841
+id: auto-178daf57dda6da906
 title: 'entityTypes.management.operationDefs.GET-SCHEMA-JSON.description'
 desc: ''
-updated: 1618573540617
-created: 1618573540617
+updated: 1618581224922
+created: 1618581224922
 ---
 # entityTypes.management.operationDefs.GET-SCHEMA-JSON.description
 

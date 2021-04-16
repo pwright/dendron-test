@@ -1,9 +1,9 @@
 ---
-id: auto-178da811b6e6d6de0
+id: auto-178daf668024cc6bc
 title: 'entityTypes.router.link.attributes.deliveriesStuck.description'
 desc: ''
-updated: 1618573597550
-created: 1618573597550
+updated: 1618581284866
+created: 1618581284866
 ---
 # entityTypes.router.link.attributes.deliveriesStuck.description
 

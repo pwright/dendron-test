@@ -1,9 +1,9 @@
 ---
-id: auto-178da816cf560c7a2
+id: auto-178daf6b6342c9199
 title: 'entityTypes.policy.attributes.enableVhostNamePatterns.description'
 desc: ''
-updated: 1618573618421
-created: 1618573618421
+updated: 1618581304884
+created: 1618581304884
 ---
 # entityTypes.policy.attributes.enableVhostNamePatterns.description
 

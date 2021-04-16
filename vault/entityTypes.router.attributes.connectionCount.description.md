@@ -1,9 +1,9 @@
 ---
-id: auto-178da805e954bb2b6
+id: auto-178daf5a4cb87db7f
 title: 'entityTypes.router.attributes.connectionCount.description'
 desc: ''
-updated: 1618573549205
-created: 1618573549205
+updated: 1618581234891
+created: 1618581234891
 ---
 # entityTypes.router.attributes.connectionCount.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da811dee68b73f
+id: auto-178daf66a8a51fb90
 title: 'entityTypes.router.link.attributes.settleRate.description'
 desc: ''
-updated: 1618573598190
-created: 1618573598190
+updated: 1618581285514
+created: 1618581285514
 ---
 # entityTypes.router.link.attributes.settleRate.description
 

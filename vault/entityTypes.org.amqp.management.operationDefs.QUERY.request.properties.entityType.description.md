@@ -1,10 +1,10 @@
 ---
-id: auto-178da80256c1c73c0
+id: auto-178daf565b636f523
 title: 'entityTypes.org.amqp.management.operationDefs.QUERY.request.properties.entityType.description'
 desc: ''
-updated: 1618573534572
-created: 1618573534572
+updated: 1618581218742
+created: 1618581218742
 ---
 # entityTypes.org.amqp.management.operationDefs.QUERY.request.properties.entityType.description
 
-If set
+If set, restrict query results to entities that extend (directly or indirectly) this type

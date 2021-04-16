@@ -1,9 +1,9 @@
 ---
-id: auto-178da80ac20186366
+id: auto-178daf5f70a8094b0
 title: 'entityTypes.connector.attributes.saslUsername.description'
 desc: ''
-updated: 1618573569056
-created: 1618573569056
+updated: 1618581255946
+created: 1618581255946
 ---
 # entityTypes.connector.attributes.saslUsername.description
 

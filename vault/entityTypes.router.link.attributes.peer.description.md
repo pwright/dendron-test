@@ -1,9 +1,9 @@
 ---
-id: auto-178da8111208eb311
+id: auto-178daf65d284b530f
 title: 'entityTypes.router.link.attributes.peer.description'
 desc: ''
-updated: 1618573594912
-created: 1618573594912
+updated: 1618581282088
+created: 1618581282088
 ---
 # entityTypes.router.link.attributes.peer.description
 

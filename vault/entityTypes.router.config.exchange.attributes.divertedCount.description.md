@@ -1,9 +1,9 @@
 ---
-id: auto-178da8106081b9e7b
+id: auto-178daf651e28b41bc
 title: 'entityTypes.router.config.exchange.attributes.divertedCount.description'
 desc: ''
-updated: 1618573592072
-created: 1618573592072
+updated: 1618581279202
+created: 1618581279202
 ---
 # entityTypes.router.config.exchange.attributes.divertedCount.description
 

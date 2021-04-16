@@ -1,9 +1,9 @@
 ---
-id: auto-178da811d2a28fae3
+id: auto-178daf669a02b1dc8
 title: 'entityTypes.router.link.attributes.zeroCreditSeconds.description'
 desc: ''
-updated: 1618573597994
-created: 1618573597994
+updated: 1618581285280
+created: 1618581285280
 ---
 # entityTypes.router.link.attributes.zeroCreditSeconds.description
 

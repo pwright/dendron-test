@@ -1,9 +1,9 @@
 ---
-id: auto-178da807bf9c84b4
+id: auto-178daf5c5d4121aba
 title: 'entityTypes.authServicePlugin.attributes.authService.description'
 desc: ''
-updated: 1618573556729
-created: 1618573556729
+updated: 1618581243349
+created: 1618581243349
 ---
 # entityTypes.authServicePlugin.attributes.authService.description
 

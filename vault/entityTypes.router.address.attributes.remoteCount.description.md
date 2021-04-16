@@ -1,9 +1,9 @@
 ---
-id: auto-178da81238d8e84c
+id: auto-178daf6709b53e459
 title: 'entityTypes.router.address.attributes.remoteCount.description'
 desc: ''
-updated: 1618573599629
-created: 1618573599629
+updated: 1618581287067
+created: 1618581287067
 ---
 # entityTypes.router.address.attributes.remoteCount.description
 

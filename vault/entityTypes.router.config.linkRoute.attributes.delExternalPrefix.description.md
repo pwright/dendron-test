@@ -1,9 +1,9 @@
 ---
-id: auto-178da80edd23c43e0
+id: auto-178daf6394081bca7
 title: 'entityTypes.router.config.linkRoute.attributes.delExternalPrefix.description'
 desc: ''
-updated: 1618573585874
-created: 1618573585874
+updated: 1618581272896
+created: 1618581272896
 ---
 # entityTypes.router.config.linkRoute.attributes.delExternalPrefix.description
 

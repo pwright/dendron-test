@@ -1,9 +1,9 @@
 ---
-id: auto-178da80a69f44db1
+id: auto-178daf5ee6a174820
 title: 'entityTypes.connector.attributes.maxFrameSize.description'
 desc: ''
-updated: 1618573567647
-created: 1618573567647
+updated: 1618581253738
+created: 1618581253738
 ---
 # entityTypes.connector.attributes.maxFrameSize.description
 

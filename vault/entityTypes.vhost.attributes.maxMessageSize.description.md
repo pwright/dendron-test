@@ -1,9 +1,9 @@
 ---
-id: auto-178da8173e96efb34
+id: auto-178daf6be7c870999
 title: 'entityTypes.vhost.attributes.maxMessageSize.description'
 desc: ''
-updated: 1618573620201
-created: 1618573620201
+updated: 1618581307004
+created: 1618581307004
 ---
 # entityTypes.vhost.attributes.maxMessageSize.description
 

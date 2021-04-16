@@ -1,9 +1,9 @@
 ---
-id: auto-178da804e998a99ad
+id: auto-178daf5926a26bcb2
 title: 'entityTypes.router.attributes.raIntervalFluxSeconds.description'
 desc: ''
-updated: 1618573545113
-created: 1618573545113
+updated: 1618581230187
+created: 1618581230187
 ---
 # entityTypes.router.attributes.raIntervalFluxSeconds.description
 

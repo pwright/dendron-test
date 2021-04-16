@@ -1,9 +1,9 @@
 ---
-id: auto-178da81422e7e1e3f
+id: auto-178daf6855328c806
 title: 'entityTypes.router.node.attributes.routerLink.description'
 desc: ''
-updated: 1618573607470
-created: 1618573607470
+updated: 1618581292371
+created: 1618581292371
 ---
 # entityTypes.router.node.attributes.routerLink.description
 

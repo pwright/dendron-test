@@ -1,9 +1,9 @@
 ---
-id: auto-178da80b7d6a17ea
+id: auto-178daf604b5669e7f
 title: 'entityTypes.httpListener.attributes.protocolVersion.description'
 desc: ''
-updated: 1618573572054
-created: 1618573572054
+updated: 1618581259445
+created: 1618581259445
 ---
 # entityTypes.httpListener.attributes.protocolVersion.description
 

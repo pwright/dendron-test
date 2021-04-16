@@ -1,9 +1,9 @@
 ---
-id: auto-178da80ddc14ccb11
+id: auto-178daf62b712339d8
 title: 'entityTypes.logStats.attributes.errorCount.description'
 desc: ''
-updated: 1618573581761
-created: 1618573581761
+updated: 1618581269361
+created: 1618581269361
 ---
 # entityTypes.logStats.attributes.errorCount.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da81512e161ce7
+id: auto-178daf68ff33f4616
 title: 'entityTypes.connection.attributes.isEncrypted.description'
 desc: ''
-updated: 1618573611310
-created: 1618573611310
+updated: 1618581295091
+created: 1618581295091
 ---
 # entityTypes.connection.attributes.isEncrypted.description
 

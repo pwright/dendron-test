@@ -1,9 +1,9 @@
 ---
-id: auto-178da81804d7b6a54
+id: auto-178daf6cb8192f9c0
 title: 'entityTypes.vhostUserGroupSettings.attributes.maxSenders.description'
 desc: ''
-updated: 1618573623373
-created: 1618573623373
+updated: 1618581310337
+created: 1618581310337
 ---
 # entityTypes.vhostUserGroupSettings.attributes.maxSenders.description
 

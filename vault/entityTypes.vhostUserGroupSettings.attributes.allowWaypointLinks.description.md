@@ -1,9 +1,9 @@
 ---
-id: auto-178da81849623d3f2
+id: auto-178daf6cfc510f4b3
 title: 'entityTypes.vhostUserGroupSettings.attributes.allowWaypointLinks.description'
 desc: ''
-updated: 1618573624470
-created: 1618573624470
+updated: 1618581311429
+created: 1618581311429
 ---
 # entityTypes.vhostUserGroupSettings.attributes.allowWaypointLinks.description
 

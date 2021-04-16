@@ -1,9 +1,9 @@
 ---
-id: auto-178da811eb44b3ca1
+id: auto-178daf66b515c50b
 title: 'entityTypes.router.link.attributes.ingressHistogram.description'
 desc: ''
-updated: 1618573598388
-created: 1618573598388
+updated: 1618581285713
+created: 1618581285713
 ---
 # entityTypes.router.link.attributes.ingressHistogram.description
 

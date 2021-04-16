@@ -1,9 +1,9 @@
 ---
-id: auto-178da8183ce7fab0f
+id: auto-178daf6cee36853c9
 title: 'entityTypes.vhostUserGroupSettings.attributes.allowUserIdProxy.description'
 desc: ''
-updated: 1618573624270
-created: 1618573624270
+updated: 1618581311203
+created: 1618581311203
 ---
 # entityTypes.vhostUserGroupSettings.attributes.allowUserIdProxy.description
 

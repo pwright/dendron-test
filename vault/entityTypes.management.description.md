@@ -1,9 +1,9 @@
 ---
-id: auto-178da80394a848fe5
+id: auto-178daf57ad554e16c
 title: 'entityTypes.management.description'
 desc: ''
-updated: 1618573539658
-created: 1618573539658
+updated: 1618581224149
+created: 1618581224149
 ---
 # entityTypes.management.description
 

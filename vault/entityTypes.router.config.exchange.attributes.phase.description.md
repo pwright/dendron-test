@@ -1,9 +1,9 @@
 ---
-id: auto-178da80ff924cdb51
+id: auto-178daf64aed8dbb43
 title: 'entityTypes.router.config.exchange.attributes.phase.description'
 desc: ''
-updated: 1618573590418
-created: 1618573590418
+updated: 1618581277421
+created: 1618581277421
 ---
 # entityTypes.router.config.exchange.attributes.phase.description
 

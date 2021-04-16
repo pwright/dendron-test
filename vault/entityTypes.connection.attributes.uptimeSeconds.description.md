@@ -1,9 +1,9 @@
 ---
-id: auto-178da815923695f03
+id: auto-178daf69c52768e03
 title: 'entityTypes.connection.attributes.uptimeSeconds.description'
 desc: ''
-updated: 1618573613348
-created: 1618573613348
+updated: 1618581298258
+created: 1618581298258
 ---
 # entityTypes.connection.attributes.uptimeSeconds.description
 

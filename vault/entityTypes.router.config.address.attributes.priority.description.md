@@ -1,9 +1,9 @@
 ---
-id: auto-178da80e7276735a8
+id: auto-178daf6335f726a5e
 title: 'entityTypes.router.config.address.attributes.priority.description'
 desc: ''
-updated: 1618573584167
-created: 1618573584167
+updated: 1618581271391
+created: 1618581271391
 ---
 # entityTypes.router.config.address.attributes.priority.description
 

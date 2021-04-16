@@ -1,10 +1,10 @@
 ---
-id: auto-178da807345734936
+id: auto-178daf5bca58d76eb
 title: 'entityTypes.sslProfile.attributes.protocols.description'
 desc: ''
-updated: 1618573554501
-created: 1618573554501
+updated: 1618581240997
+created: 1618581240997
 ---
 # entityTypes.sslProfile.attributes.protocols.description
 
-The TLS protocols that this sslProfile can use. You can specify a list of one or more of TLSv1
+The TLS protocols that this sslProfile can use. You can specify a list of one or more of TLSv1, TLSv1.1, or TLSv1.2. To specify multiple protocols, separate the protocols with a space. For example, to permit the sslProfile to use TLS v1.1 and TLS v1.2 only, you would set the value to TLSv1.1 TLSv1.2. If you do not specify a value, the sslProfile uses the TLS protocol specified by the system-wide configuration.

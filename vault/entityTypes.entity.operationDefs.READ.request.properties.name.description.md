@@ -1,9 +1,9 @@
 ---
-id: auto-178da8019b6857861
+id: auto-178daf55a72c7bae
 title: 'entityTypes.entity.operationDefs.READ.request.properties.name.description'
 desc: ''
-updated: 1618573531574
-created: 1618573531574
+updated: 1618581215858
+created: 1618581215858
 ---
 # entityTypes.entity.operationDefs.READ.request.properties.name.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da804dc5c0d36
+id: auto-178daf5910516f580
 title: 'entityTypes.router.attributes.raIntervalSeconds.description'
 desc: ''
-updated: 1618573544901
-created: 1618573544901
+updated: 1618581229829
+created: 1618581229829
 ---
 # entityTypes.router.attributes.raIntervalSeconds.description
 

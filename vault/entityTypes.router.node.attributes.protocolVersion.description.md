@@ -1,9 +1,9 @@
 ---
-id: auto-178da813a662a9f30
+id: auto-178daf6803783e91e
 title: 'entityTypes.router.node.attributes.protocolVersion.description'
 desc: ''
-updated: 1618573605478
-created: 1618573605478
+updated: 1618581291063
+created: 1618581291063
 ---
 # entityTypes.router.node.attributes.protocolVersion.description
 

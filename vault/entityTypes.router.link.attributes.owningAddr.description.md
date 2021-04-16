@@ -1,9 +1,9 @@
 ---
-id: auto-178da810f9413cde9
+id: auto-178daf65b315aa400
 title: 'entityTypes.router.link.attributes.owningAddr.description'
 desc: ''
-updated: 1618573594516
-created: 1618573594516
+updated: 1618581281585
+created: 1618581281585
 ---
 # entityTypes.router.link.attributes.owningAddr.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da818638378202
+id: auto-178daf6d18e79a3a
 title: 'entityTypes.vhostUserGroupSettings.attributes.allowAdminStatusUpdate.description'
 desc: ''
-updated: 1618573624888
-created: 1618573624888
+updated: 1618581311886
+created: 1618581311886
 ---
 # entityTypes.vhostUserGroupSettings.attributes.allowAdminStatusUpdate.description
 

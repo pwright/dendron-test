@@ -1,9 +1,9 @@
 ---
-id: auto-178da80d5864e78e9
+id: auto-178daf623a0485899
 title: 'entityTypes.log.attributes.includeTimestamp.description'
 desc: ''
-updated: 1618573579654
-created: 1618573579654
+updated: 1618581267361
+created: 1618581267361
 ---
 # entityTypes.log.attributes.includeTimestamp.description
 

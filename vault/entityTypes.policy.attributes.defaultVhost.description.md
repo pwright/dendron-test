@@ -1,9 +1,9 @@
 ---
-id: auto-178da816e983e09e4
+id: auto-178daf6b83b18c047
 title: 'entityTypes.policy.attributes.defaultVhost.description'
 desc: ''
-updated: 1618573618840
-created: 1618573618840
+updated: 1618581305403
+created: 1618581305403
 ---
 # entityTypes.policy.attributes.defaultVhost.description
 

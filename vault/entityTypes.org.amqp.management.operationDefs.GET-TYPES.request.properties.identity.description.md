@@ -1,9 +1,9 @@
 ---
-id: auto-178da802bfb3c3bd6
+id: auto-178daf56c838d3f65
 title: 'entityTypes.org.amqp.management.operationDefs.GET-TYPES.request.properties.identity.description'
 desc: ''
-updated: 1618573536251
-created: 1618573536251
+updated: 1618581220483
+created: 1618581220483
 ---
 # entityTypes.org.amqp.management.operationDefs.GET-TYPES.request.properties.identity.description
 

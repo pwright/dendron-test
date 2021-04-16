@@ -1,9 +1,9 @@
 ---
-id: auto-178da8120477cd056
+id: auto-178daf66ce382cc8e
 title: 'entityTypes.router.address.description'
 desc: ''
-updated: 1618573598791
-created: 1618573598791
+updated: 1618581286115
+created: 1618581286115
 ---
 # entityTypes.router.address.description
 

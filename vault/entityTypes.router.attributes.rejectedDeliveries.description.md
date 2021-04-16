@@ -1,9 +1,9 @@
 ---
-id: auto-178da80642b7c3e31
+id: auto-178daf5a9966c7402
 title: 'entityTypes.router.attributes.rejectedDeliveries.description'
 desc: ''
-updated: 1618573550635
-created: 1618573550635
+updated: 1618581236118
+created: 1618581236118
 ---
 # entityTypes.router.attributes.rejectedDeliveries.description
 

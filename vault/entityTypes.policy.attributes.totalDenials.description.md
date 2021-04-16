@@ -1,10 +1,10 @@
 ---
-id: auto-178da8170087589fe
+id: auto-178daf6ba137d3db3
 title: 'entityTypes.policy.attributes.totalDenials.description'
 desc: ''
-updated: 1618573619208
-created: 1618573619208
+updated: 1618581305876
+created: 1618581305876
 ---
 # entityTypes.policy.attributes.totalDenials.description
 
-The total number of connection
+The total number of connection, link, and transfer denials.

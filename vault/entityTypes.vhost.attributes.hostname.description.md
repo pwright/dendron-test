@@ -1,9 +1,9 @@
 ---
-id: auto-178da81717b16a72f
+id: auto-178daf6bbcb34fe2a
 title: 'entityTypes.vhost.attributes.hostname.description'
 desc: ''
-updated: 1618573619579
-created: 1618573619579
+updated: 1618581306315
+created: 1618581306315
 ---
 # entityTypes.vhost.attributes.hostname.description
 

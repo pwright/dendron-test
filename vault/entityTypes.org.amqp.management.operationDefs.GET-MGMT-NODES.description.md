@@ -1,9 +1,9 @@
 ---
-id: auto-178da8036e6252db8
+id: auto-178daf5782359c9d5
 title: 'entityTypes.org.amqp.management.operationDefs.GET-MGMT-NODES.description'
 desc: ''
-updated: 1618573539046
-created: 1618573539046
+updated: 1618581223459
+created: 1618581223459
 ---
 # entityTypes.org.amqp.management.operationDefs.GET-MGMT-NODES.description
 

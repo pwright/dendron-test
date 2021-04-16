@@ -1,9 +1,9 @@
 ---
-id: auto-178da80d2cd82a925
+id: auto-178daf6207f21112d
 title: 'entityTypes.log.description'
 desc: ''
-updated: 1618573578957
-created: 1618573578957
+updated: 1618581266559
+created: 1618581266559
 ---
 # entityTypes.log.description
 

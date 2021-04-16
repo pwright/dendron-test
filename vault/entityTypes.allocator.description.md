@@ -1,9 +1,9 @@
 ---
-id: auto-178da8163525b1f0b
+id: auto-178daf6ab0396e859
 title: 'entityTypes.allocator.description'
 desc: ''
-updated: 1618573615954
-created: 1618573615954
+updated: 1618581302019
+created: 1618581302019
 ---
 # entityTypes.allocator.description
 

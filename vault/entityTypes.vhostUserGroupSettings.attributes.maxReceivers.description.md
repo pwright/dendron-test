@@ -1,9 +1,9 @@
 ---
-id: auto-178da8181281fa35
+id: auto-178daf6cc5a4f7ead
 title: 'entityTypes.vhostUserGroupSettings.attributes.maxReceivers.description'
 desc: ''
-updated: 1618573623592
-created: 1618573623592
+updated: 1618581310554
+created: 1618581310554
 ---
 # entityTypes.vhostUserGroupSettings.attributes.maxReceivers.description
 

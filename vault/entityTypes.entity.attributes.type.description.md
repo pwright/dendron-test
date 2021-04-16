@@ -1,9 +1,9 @@
 ---
-id: auto-178da80156a146f3b
+id: auto-178daf55625325ff8
 title: 'entityTypes.entity.attributes.type.description'
 desc: ''
-updated: 1618573530474
-created: 1618573530474
+updated: 1618581214757
+created: 1618581214757
 ---
 # entityTypes.entity.attributes.type.description
 

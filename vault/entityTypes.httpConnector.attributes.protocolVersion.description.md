@@ -1,9 +1,9 @@
 ---
-id: auto-178da80beef283949
+id: auto-178daf60c0c4a6f32
 title: 'entityTypes.httpConnector.attributes.protocolVersion.description'
 desc: ''
-updated: 1618573573871
-created: 1618573573871
+updated: 1618581261324
+created: 1618581261324
 ---
 # entityTypes.httpConnector.attributes.protocolVersion.description
 

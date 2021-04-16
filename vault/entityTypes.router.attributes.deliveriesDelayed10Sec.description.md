@@ -1,9 +1,9 @@
 ---
-id: auto-178da80675db3c6a
+id: auto-178daf5aed255351c
 title: 'entityTypes.router.attributes.deliveriesDelayed10Sec.description'
 desc: ''
-updated: 1618573551453
-created: 1618573551453
+updated: 1618581237458
+created: 1618581237458
 ---
 # entityTypes.router.attributes.deliveriesDelayed10Sec.description
 

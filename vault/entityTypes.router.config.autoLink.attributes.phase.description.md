@@ -1,9 +1,9 @@
 ---
-id: auto-178da80f7152f26ac
+id: auto-178daf64113669183
 title: 'entityTypes.router.config.autoLink.attributes.phase.description'
 desc: ''
-updated: 1618573588245
-created: 1618573588245
+updated: 1618581274899
+created: 1618581274899
 ---
 # entityTypes.router.config.autoLink.attributes.phase.description
 

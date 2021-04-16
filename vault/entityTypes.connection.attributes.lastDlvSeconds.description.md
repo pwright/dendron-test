@@ -1,9 +1,9 @@
 ---
-id: auto-178da815b084ff03b
+id: auto-178daf69f2e5387ba
 title: 'entityTypes.connection.attributes.lastDlvSeconds.description'
 desc: ''
-updated: 1618573613833
-created: 1618573613833
+updated: 1618581298990
+created: 1618581298990
 ---
 # entityTypes.connection.attributes.lastDlvSeconds.description
 

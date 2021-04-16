@@ -1,9 +1,9 @@
 ---
-id: auto-178da802136f4318
+id: auto-178daf561803888d2
 title: 'entityTypes.entity.operationDefs.DELETE.request.properties.name.description'
 desc: ''
-updated: 1618573533494
-created: 1618573533494
+updated: 1618581217664
+created: 1618581217664
 ---
 # entityTypes.entity.operationDefs.DELETE.request.properties.name.description
 

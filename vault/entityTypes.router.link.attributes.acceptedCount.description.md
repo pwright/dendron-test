@@ -1,9 +1,9 @@
 ---
-id: auto-178da81161533cfba
+id: auto-178daf662502a4ea0
 title: 'entityTypes.router.link.attributes.acceptedCount.description'
 desc: ''
-updated: 1618573596181
-created: 1618573596181
+updated: 1618581283408
+created: 1618581283408
 ---
 # entityTypes.router.link.attributes.acceptedCount.description
 

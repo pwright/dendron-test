@@ -1,9 +1,9 @@
 ---
-id: auto-178da809f0e970fbc
+id: auto-178daf5e66f7d2bec
 title: 'entityTypes.connector.description'
 desc: ''
-updated: 1618573565710
-created: 1618573565710
+updated: 1618581251695
+created: 1618581251695
 ---
 # entityTypes.connector.description
 

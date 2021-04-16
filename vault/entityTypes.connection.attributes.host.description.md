@@ -1,9 +1,9 @@
 ---
-id: auto-178da814e66ae17b
+id: auto-178daf68d501f5fe
 title: 'entityTypes.connection.attributes.host.description'
 desc: ''
-updated: 1618573610598
-created: 1618573610598
+updated: 1618581294416
+created: 1618581294416
 ---
 # entityTypes.connection.attributes.host.description
 

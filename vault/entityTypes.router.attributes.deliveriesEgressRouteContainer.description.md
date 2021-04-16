@@ -1,9 +1,9 @@
 ---
-id: auto-178da806d1727249a
+id: auto-178daf5b66382190d
 title: 'entityTypes.router.attributes.deliveriesEgressRouteContainer.description'
 desc: ''
-updated: 1618573552919
-created: 1618573552919
+updated: 1618581239395
+created: 1618581239395
 ---
 # entityTypes.router.attributes.deliveriesEgressRouteContainer.description
 

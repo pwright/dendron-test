@@ -1,9 +1,9 @@
 ---
-id: auto-178da80e4407638a7
+id: auto-178daf630f07d2c04
 title: 'entityTypes.router.config.address.attributes.waypoint.description'
 desc: ''
-updated: 1618573583424
-created: 1618573583424
+updated: 1618581270768
+created: 1618581270768
 ---
 # entityTypes.router.config.address.attributes.waypoint.description
 

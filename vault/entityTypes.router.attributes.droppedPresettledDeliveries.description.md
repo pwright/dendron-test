@@ -1,9 +1,9 @@
 ---
-id: auto-178da8061363b0829
+id: auto-178daf5a78a244dc7
 title: 'entityTypes.router.attributes.droppedPresettledDeliveries.description'
 desc: ''
-updated: 1618573549879
-created: 1618573549879
+updated: 1618581235594
+created: 1618581235594
 ---
 # entityTypes.router.attributes.droppedPresettledDeliveries.description
 

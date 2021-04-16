@@ -1,9 +1,9 @@
 ---
-id: auto-178da80c5803d5a79
+id: auto-178daf613ba859289
 title: 'entityTypes.httpRequestInfo.attributes.direction.description'
 desc: ''
-updated: 1618573575552
-created: 1618573575552
+updated: 1618581263290
+created: 1618581263290
 ---
 # entityTypes.httpRequestInfo.attributes.direction.description
 

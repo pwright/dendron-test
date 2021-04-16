@@ -1,9 +1,9 @@
 ---
-id: auto-178da806a0a229832
+id: auto-178daf5b29d289f30
 title: 'entityTypes.router.attributes.deliveriesEgress.description'
 desc: ''
-updated: 1618573552138
-created: 1618573552138
+updated: 1618581238429
+created: 1618581238429
 ---
 # entityTypes.router.attributes.deliveriesEgress.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da804c3e762bcf
+id: auto-178daf58e8345359
 title: 'entityTypes.router.attributes.helloIntervalSeconds.description'
 desc: ''
-updated: 1618573544510
-created: 1618573544510
+updated: 1618581229187
+created: 1618581229187
 ---
 # entityTypes.router.attributes.helloIntervalSeconds.description
 

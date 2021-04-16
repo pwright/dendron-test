@@ -1,9 +1,9 @@
 ---
-id: auto-178da8148f164e764
+id: auto-178daf689bf30f807
 title: 'entityTypes.connection.attributes.adminStatus.description'
 desc: ''
-updated: 1618573609201
-created: 1618573609201
+updated: 1618581293503
+created: 1618581293503
 ---
 # entityTypes.connection.attributes.adminStatus.description
 

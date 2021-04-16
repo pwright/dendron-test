@@ -1,9 +1,9 @@
 ---
-id: auto-178da8023a733c37f
+id: auto-178daf5635c74bfe9
 title: 'entityTypes.org.amqp.management.description'
 desc: ''
-updated: 1618573534119
-created: 1618573534119
+updated: 1618581218141
+created: 1618581218141
 ---
 # entityTypes.org.amqp.management.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da8107c9312cb8
+id: auto-178daf65389c4f3d
 title: 'entityTypes.router.config.binding.attributes.exchangeName.description'
 desc: ''
-updated: 1618573592521
-created: 1618573592521
+updated: 1618581279625
+created: 1618581279625
 ---
 # entityTypes.router.config.binding.attributes.exchangeName.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da80e54346a35
+id: auto-178daf631b9901a81
 title: 'entityTypes.router.config.address.attributes.ingressPhase.description'
 desc: ''
-updated: 1618573583683
-created: 1618573583683
+updated: 1618581270969
+created: 1618581270969
 ---
 # entityTypes.router.config.address.attributes.ingressPhase.description
 

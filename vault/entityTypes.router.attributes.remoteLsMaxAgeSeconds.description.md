@@ -1,9 +1,9 @@
 ---
-id: auto-178da804fa62a8fec
+id: auto-178daf593c3378d98
 title: 'entityTypes.router.attributes.remoteLsMaxAgeSeconds.description'
 desc: ''
-updated: 1618573545382
-created: 1618573545382
+updated: 1618581230531
+created: 1618581230531
 ---
 # entityTypes.router.attributes.remoteLsMaxAgeSeconds.description
 

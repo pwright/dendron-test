@@ -1,9 +1,9 @@
 ---
-id: auto-178da81034d7a3c05
+id: auto-178daf64f72f6b1d
 title: 'entityTypes.router.config.exchange.attributes.receivedCount.description'
 desc: ''
-updated: 1618573591373
-created: 1618573591373
+updated: 1618581278578
+created: 1618581278578
 ---
 # entityTypes.router.config.exchange.attributes.receivedCount.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da815eec1c83b
+id: auto-178daf6a59f62a29e
 title: 'entityTypes.tcpConnection.attributes.bytesIn.description'
 desc: ''
-updated: 1618573614828
-created: 1618573614828
+updated: 1618581300639
+created: 1618581300639
 ---
 # entityTypes.tcpConnection.attributes.bytesIn.description
 

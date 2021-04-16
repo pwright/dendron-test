@@ -1,9 +1,9 @@
 ---
-id: auto-178da80fb755aaf4e
+id: auto-178daf645f0391b97
 title: 'entityTypes.router.config.autoLink.attributes.linkRef.description'
 desc: ''
-updated: 1618573589365
-created: 1618573589365
+updated: 1618581276145
+created: 1618581276145
 ---
 # entityTypes.router.config.autoLink.attributes.linkRef.description
 

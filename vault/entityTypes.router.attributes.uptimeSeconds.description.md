@@ -1,9 +1,9 @@
 ---
-id: auto-178da806f2e208ec6
+id: auto-178daf5b8d73c7ccb
 title: 'entityTypes.router.attributes.uptimeSeconds.description'
 desc: ''
-updated: 1618573553455
-created: 1618573553455
+updated: 1618581240023
+created: 1618581240023
 ---
 # entityTypes.router.attributes.uptimeSeconds.description
 

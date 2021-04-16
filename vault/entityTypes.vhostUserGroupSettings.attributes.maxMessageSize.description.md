@@ -1,9 +1,9 @@
 ---
-id: auto-178da817cf3352152
+id: auto-178daf6c78e7175c8
 title: 'entityTypes.vhostUserGroupSettings.attributes.maxMessageSize.description'
 desc: ''
-updated: 1618573622515
-created: 1618573622515
+updated: 1618581309326
+created: 1618581309326
 ---
 # entityTypes.vhostUserGroupSettings.attributes.maxMessageSize.description
 

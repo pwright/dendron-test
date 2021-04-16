@@ -1,9 +1,9 @@
 ---
-id: auto-178da814f574a09b1
+id: auto-178daf68e2f8395cf
 title: 'entityTypes.connection.attributes.dir.description'
 desc: ''
-updated: 1618573610839
-created: 1618573610839
+updated: 1618581294639
+created: 1618581294639
 ---
 # entityTypes.connection.attributes.dir.description
 

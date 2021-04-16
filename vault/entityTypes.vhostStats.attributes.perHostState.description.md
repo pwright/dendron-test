@@ -1,9 +1,9 @@
 ---
-id: auto-178da818eff682a9f
+id: auto-178daf6dba4652bdd
 title: 'entityTypes.vhostStats.attributes.perHostState.description'
 desc: ''
-updated: 1618573627135
-created: 1618573627135
+updated: 1618581314468
+created: 1618581314468
 ---
 # entityTypes.vhostStats.attributes.perHostState.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da810a685307c1
+id: auto-178daf6562f567d0d
 title: 'entityTypes.router.config.binding.attributes.nextHopPhase.description'
 desc: ''
-updated: 1618573593192
-created: 1618573593192
+updated: 1618581280304
+created: 1618581280304
 ---
 # entityTypes.router.config.binding.attributes.nextHopPhase.description
 

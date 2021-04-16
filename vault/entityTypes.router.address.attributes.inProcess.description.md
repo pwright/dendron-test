@@ -1,9 +1,9 @@
 ---
-id: auto-178da8121dc114b75
+id: auto-178daf66e7c10ce04
 title: 'entityTypes.router.address.attributes.inProcess.description'
 desc: ''
-updated: 1618573599196
-created: 1618573599196
+updated: 1618581286525
+created: 1618581286525
 ---
 # entityTypes.router.address.attributes.inProcess.description
 

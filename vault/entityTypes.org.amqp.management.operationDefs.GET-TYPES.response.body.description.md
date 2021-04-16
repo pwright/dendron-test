@@ -1,9 +1,9 @@
 ---
-id: auto-178da802d465bfb38
+id: auto-178daf56e0b2f64ac
 title: 'entityTypes.org.amqp.management.operationDefs.GET-TYPES.response.body.description'
 desc: ''
-updated: 1618573536582
-created: 1618573536582
+updated: 1618581220875
+created: 1618581220875
 ---
 # entityTypes.org.amqp.management.operationDefs.GET-TYPES.response.body.description
 

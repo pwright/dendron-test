@@ -1,9 +1,9 @@
 ---
-id: auto-178da8055222ae5c2
+id: auto-178daf59b69589261
 title: 'entityTypes.router.attributes.timestampFormat.description'
 desc: ''
-updated: 1618573546786
-created: 1618573546786
+updated: 1618581232489
+created: 1618581232489
 ---
 # entityTypes.router.attributes.timestampFormat.description
 

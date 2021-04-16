@@ -1,9 +1,9 @@
 ---
-id: auto-178da8116cbd5007
+id: auto-178daf6636397b594
 title: 'entityTypes.router.link.attributes.rejectedCount.description'
 desc: ''
-updated: 1618573596363
-created: 1618573596363
+updated: 1618581283683
+created: 1618581283683
 ---
 # entityTypes.router.link.attributes.rejectedCount.description
 

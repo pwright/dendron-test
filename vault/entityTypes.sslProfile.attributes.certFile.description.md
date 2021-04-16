@@ -1,9 +1,9 @@
 ---
-id: auto-178da8075137160b5
+id: auto-178daf5be8877f1dd
 title: 'entityTypes.sslProfile.attributes.certFile.description'
 desc: ''
-updated: 1618573554963
-created: 1618573554963
+updated: 1618581241480
+created: 1618581241480
 ---
 # entityTypes.sslProfile.attributes.certFile.description
 

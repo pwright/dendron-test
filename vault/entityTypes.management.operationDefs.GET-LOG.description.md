@@ -1,9 +1,9 @@
 ---
-id: auto-178da8040ddf9df6
+id: auto-178daf5816a3f1777
 title: 'entityTypes.management.operationDefs.GET-LOG.description'
 desc: ''
-updated: 1618573541597
-created: 1618573541597
+updated: 1618581225834
+created: 1618581225834
 ---
 # entityTypes.management.operationDefs.GET-LOG.description
 

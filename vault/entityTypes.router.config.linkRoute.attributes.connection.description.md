@@ -1,9 +1,9 @@
 ---
-id: auto-178da80ef688f2083
+id: auto-178daf63acf979076
 title: 'entityTypes.router.config.linkRoute.attributes.connection.description'
 desc: ''
-updated: 1618573586280
-created: 1618573586280
+updated: 1618581273295
+created: 1618581273295
 ---
 # entityTypes.router.config.linkRoute.attributes.connection.description
 

@@ -1,9 +1,9 @@
 ---
-id: auto-178da81780996258a
+id: auto-178daf6c345110dc
 title: 'entityTypes.vhostUserGroupSettings.description'
 desc: ''
-updated: 1618573621257
-created: 1618573621257
+updated: 1618581308229
+created: 1618581308229
 ---
 # entityTypes.vhostUserGroupSettings.description
 

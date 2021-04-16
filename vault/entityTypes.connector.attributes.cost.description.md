@@ -1,9 +1,9 @@
 ---
-id: auto-178da80a30150313a
+id: auto-178daf5eb07545736
 title: 'entityTypes.connector.attributes.cost.description'
 desc: ''
-updated: 1618573566721
-created: 1618573566721
+updated: 1618581252871
+created: 1618581252871
 ---
 # entityTypes.connector.attributes.cost.description
 

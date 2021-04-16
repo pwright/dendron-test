@@ -1,9 +1,9 @@
 ---
-id: auto-178da80a4d91ce502
+id: auto-178daf5ec9b5fcb2b
 title: 'entityTypes.connector.attributes.saslMechanisms.description'
 desc: ''
-updated: 1618573567193
-created: 1618573567193
+updated: 1618581253275
+created: 1618581253275
 ---
 # entityTypes.connector.attributes.saslMechanisms.description
 

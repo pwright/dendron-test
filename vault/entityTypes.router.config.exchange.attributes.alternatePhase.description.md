@@ -1,9 +1,9 @@
 ---
-id: auto-178da810110ddf1
+id: auto-178daf64cde3067f6
 title: 'entityTypes.router.config.exchange.attributes.alternatePhase.description'
 desc: ''
-updated: 1618573590800
-created: 1618573590800
+updated: 1618581277918
+created: 1618581277919
 ---
 # entityTypes.router.config.exchange.attributes.alternatePhase.description
 

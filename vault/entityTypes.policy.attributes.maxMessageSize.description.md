@@ -1,9 +1,9 @@
 ---
-id: auto-178da816b5f8ac18
+id: auto-178daf6b45f3d8f72
 title: 'entityTypes.policy.attributes.maxMessageSize.description'
 desc: ''
-updated: 1618573618015
-created: 1618573618015
+updated: 1618581304415
+created: 1618581304415
 ---
 # entityTypes.policy.attributes.maxMessageSize.description
 

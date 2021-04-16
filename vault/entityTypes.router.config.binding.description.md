@@ -1,9 +1,9 @@
 ---
-id: auto-178da8106e2f0a7e
+id: auto-178daf652b182d653
 title: 'entityTypes.router.config.binding.description'
 desc: ''
-updated: 1618573592290
-created: 1618573592290
+updated: 1618581279409
+created: 1618581279409
 ---
 # entityTypes.router.config.binding.description
 

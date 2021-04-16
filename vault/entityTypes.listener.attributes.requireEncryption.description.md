@@ -1,10 +1,10 @@
 ---
-id: auto-178da808a536e4ecb
+id: auto-178daf5d38e6fd432
 title: 'entityTypes.listener.attributes.requireEncryption.description'
 desc: ''
-updated: 1618573560403
-created: 1618573560403
+updated: 1618581246862
+created: 1618581246862
 ---
 # entityTypes.listener.attributes.requireEncryption.description
 
-yes: Require the connection to the peer to be encrypted; no: Permit non-encrypted communication with the peer
+yes: Require the connection to the peer to be encrypted

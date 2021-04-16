@@ -1,9 +1,9 @@
 ---
-id: auto-178da80a83f2b5bc0
+id: auto-178daf5f0f343edf8
 title: 'entityTypes.connector.attributes.maxSessionFrames.description'
 desc: ''
-updated: 1618573568063
-created: 1618573568063
+updated: 1618581254387
+created: 1618581254387
 ---
 # entityTypes.connector.attributes.maxSessionFrames.description
 
