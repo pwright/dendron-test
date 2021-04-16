@@ -1,9 +1,9 @@
 ---
-id: 52a5e61f-5755-4f99-a8f9-32e15b82f9de
+id: b4563568-dcb9-4fc7-b1dd-67b0b9700333
 title: deliveriesIngress
 desc: ''
-updated: 1618573905225
-created: 1618573905225
+updated: 1618573870694
+created: 1618573870694
 stub: true
 ---
 

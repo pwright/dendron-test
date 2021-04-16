@@ -1,9 +1,9 @@
 ---
-id: 099d0f5a-ea99-4f87-99fd-0c5ee2260535
+id: e8046155-d9e5-4084-a464-298c249eee20
 title: maxConnectionsPerUser
 desc: ''
-updated: 1618573905203
-created: 1618573905203
+updated: 1618573870667
+created: 1618573870667
 stub: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-id: 1b4a7728-b03e-4e8a-9673-e2fa2ec6afe7
+id: 234a5f2f-6e81-4d79-95ea-564cf90d515c
 title: waypoint
 desc: ''
-updated: 1618573905284
-created: 1618573905284
+updated: 1618573870797
+created: 1618573870797
 stub: true
 ---
 

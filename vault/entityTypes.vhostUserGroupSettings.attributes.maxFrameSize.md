@@ -1,9 +1,9 @@
 ---
-id: 8a1261f1-a482-4da5-8c97-2e868104fa06
+id: b32ee2b2-b7e7-4ffa-b76b-c8d007354224
 title: maxFrameSize
 desc: ''
-updated: 1618573905204
-created: 1618573905204
+updated: 1618573870669
+created: 1618573870669
 stub: true
 ---
 

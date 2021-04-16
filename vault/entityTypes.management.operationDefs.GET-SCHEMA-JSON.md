@@ -1,9 +1,9 @@
 ---
-id: 98544741-7c10-43ee-b3fd-8b29e975d2bc
+id: 8d3ca01c-f3f2-454f-9768-af13aefaf373
 title: GET-SCHEMA-JSON
 desc: ''
-updated: 1618573905120
-created: 1618573905120
+updated: 1618573870569
+created: 1618573870569
 stub: true
 ---
 

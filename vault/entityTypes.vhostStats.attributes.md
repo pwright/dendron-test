@@ -1,9 +1,9 @@
 ---
-id: 23410c8c-facc-432f-a5ca-5b3b9b4434f5
+id: 9a6dcc22-8221-4b8a-8bd9-7bb4587c864b
 title: attributes
 desc: ''
-updated: 1618573905193
-created: 1618573905193
+updated: 1618573870654
+created: 1618573870654
 stub: true
 ---
 

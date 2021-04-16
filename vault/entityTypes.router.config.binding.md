@@ -1,9 +1,9 @@
 ---
-id: 298f981a-dd77-4a1b-809b-bcee5254a19d
+id: 78925152-0990-4969-9a20-db49bb946b64
 title: binding
 desc: ''
-updated: 1618573905164
-created: 1618573905164
+updated: 1618573870624
+created: 1618573870624
 stub: true
 ---
 

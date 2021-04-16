@@ -1,9 +1,9 @@
 ---
-id: 94265958-a204-4474-9031-0ea63f14308e
+id: fba68842-1688-4c46-9a90-1a047695ddc6
 title: management
 desc: ''
-updated: 1618573905010
-created: 1618573905010
+updated: 1618573870464
+created: 1618573870464
 stub: true
 ---
 

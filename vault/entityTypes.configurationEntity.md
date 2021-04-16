@@ -1,9 +1,9 @@
 ---
-id: 09546f93-afdd-4457-b61a-3cde50ca2ee4
+id: b6a60813-df2c-4a23-a4df-dae28a98b43e
 title: configurationEntity
 desc: ''
-updated: 1618573904998
-created: 1618573904998
+updated: 1618573870455
+created: 1618573870455
 stub: true
 ---
 

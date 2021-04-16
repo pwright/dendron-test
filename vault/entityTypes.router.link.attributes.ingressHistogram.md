@@ -1,9 +1,9 @@
 ---
-id: 216e078e-459d-47c7-b164-075fd6660625
+id: cc0c7ba3-5157-4e0c-996c-ebf8d743ded3
 title: ingressHistogram
 desc: ''
-updated: 1618573905247
-created: 1618573905247
+updated: 1618573870731
+created: 1618573870731
 stub: true
 ---
 

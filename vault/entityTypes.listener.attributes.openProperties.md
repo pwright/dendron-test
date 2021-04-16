@@ -1,9 +1,9 @@
 ---
-id: f13931c1-cece-4cfe-9b27-c63b8a994e42
+id: 06a4fb11-1853-4669-a570-d6f232578a5a
 title: openProperties
 desc: ''
-updated: 1618573905099
-created: 1618573905099
+updated: 1618573870551
+created: 1618573870551
 stub: true
 ---
 

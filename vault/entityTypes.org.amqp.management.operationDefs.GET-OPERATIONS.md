@@ -1,9 +1,9 @@
 ---
-id: 5fd538a1-e73f-41c8-abd3-f3d05ccba518
+id: 6dbb7e07-79ef-4804-810f-434590dc26d1
 title: GET-OPERATIONS
 desc: ''
-updated: 1618573905278
-created: 1618573905278
+updated: 1618573870785
+created: 1618573870785
 stub: true
 ---
 

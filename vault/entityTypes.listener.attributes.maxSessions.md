@@ -1,9 +1,9 @@
 ---
-id: c5e734c3-2b99-41cf-9256-6a6702ed0ed5
+id: 21fb55e8-5ceb-4a59-9765-a05c4c4923c1
 title: maxSessions
 desc: ''
-updated: 1618573905096
-created: 1618573905097
+updated: 1618573870548
+created: 1618573870548
 stub: true
 ---
 

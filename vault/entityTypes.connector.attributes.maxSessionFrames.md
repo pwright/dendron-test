@@ -1,9 +1,9 @@
 ---
-id: 91465b74-5dd2-4978-99ab-e72772ad7435
+id: 71db5564-0632-48bf-b06a-61f99751b9ea
 title: maxSessionFrames
 desc: ''
-updated: 1618573905048
-created: 1618573905048
+updated: 1618573870501
+created: 1618573870501
 stub: true
 ---
 

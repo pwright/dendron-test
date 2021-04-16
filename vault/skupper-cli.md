@@ -1,9 +1,9 @@
 ---
-id: 0c34da3e-2e03-4df3-9aff-6c1605f0eb34
+id: af65f66a-7352-40f9-8fa9-692ebad9aae3
 title: Skupper CLI
 desc: ''
-updated: 1618573905217
-created: 1618573905217
+updated: 1618573870684
+created: 1618573870684
 stub: true
 ---
 

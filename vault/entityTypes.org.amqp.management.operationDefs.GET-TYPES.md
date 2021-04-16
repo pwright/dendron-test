@@ -1,9 +1,9 @@
 ---
-id: 37e1fa5d-faa4-47b8-8b61-58ac6d93f48d
+id: 6638f99b-6f65-4f8d-a757-b793d4348c71
 title: GET-TYPES
 desc: ''
-updated: 1618573905278
-created: 1618573905278
+updated: 1618573870786
+created: 1618573870786
 stub: true
 ---
 

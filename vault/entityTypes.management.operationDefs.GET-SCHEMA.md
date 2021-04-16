@@ -1,9 +1,9 @@
 ---
-id: bb2023db-6fef-489e-a314-daeda3e2a153
+id: f296d262-f3fd-48ba-9c27-dad6482dcc16
 title: GET-SCHEMA
 desc: ''
-updated: 1618573905122
-created: 1618573905122
+updated: 1618573870570
+created: 1618573870570
 stub: true
 ---
 

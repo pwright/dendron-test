@@ -1,9 +1,9 @@
 ---
-id: 33c1d894-1bba-4eff-ae3e-257fe25ffce8
+id: d21030b5-85da-4dce-a1e1-4eed4758e637
 title: GET-ATTRIBUTES
 desc: ''
-updated: 1618573905276
-created: 1618573905276
+updated: 1618573870783
+created: 1618573870783
 stub: true
 ---
 

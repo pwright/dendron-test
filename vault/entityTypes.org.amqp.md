@@ -1,9 +1,9 @@
 ---
-id: 57125b55-b7bb-4df6-b3a1-b8963c700361
+id: fb5138da-4fee-4941-b7e4-3b7beb94af34
 title: amqp
 desc: ''
-updated: 1618573905123
-created: 1618573905123
+updated: 1618573870572
+created: 1618573870572
 stub: true
 ---
 

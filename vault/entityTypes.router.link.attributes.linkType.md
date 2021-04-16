@@ -1,9 +1,9 @@
 ---
-id: 8a5c7bd3-b1a9-400a-a800-b28dd9ecdcc6
+id: 274f712c-fe47-4681-8968-86ff0b24ea98
 title: linkType
 desc: ''
-updated: 1618573905249
-created: 1618573905249
+updated: 1618573870736
+created: 1618573870736
 stub: true
 ---
 

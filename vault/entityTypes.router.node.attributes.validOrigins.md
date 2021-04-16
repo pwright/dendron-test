@@ -1,9 +1,9 @@
 ---
-id: 23b6cc7e-4a5a-4c6c-b63c-cf1d2cd7c45c
+id: e39cb3ba-f02c-44b0-b051-97dbf02dd229
 title: validOrigins
 desc: ''
-updated: 1618573905268
-created: 1618573905268
+updated: 1618573870773
+created: 1618573870773
 stub: true
 ---
 

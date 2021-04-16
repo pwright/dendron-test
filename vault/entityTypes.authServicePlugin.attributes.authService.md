@@ -1,9 +1,9 @@
 ---
-id: b98f097e-446e-4015-aab3-fcb04a55ab80
+id: 367a3ffd-54d2-428c-b5d0-67943ca08bdd
 title: authService
 desc: ''
-updated: 1618573905022
-created: 1618573905022
+updated: 1618573870479
+created: 1618573870479
 stub: true
 ---
 

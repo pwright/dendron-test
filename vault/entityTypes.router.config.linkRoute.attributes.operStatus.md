@@ -1,9 +1,9 @@
 ---
-id: 3d8553f9-1249-46e2-bfab-ef5b09254865
+id: c1224677-1763-4369-92e3-608454ce98ff
 title: operStatus
 desc: ''
-updated: 1618573905314
-created: 1618573905314
+updated: 1618573870833
+created: 1618573870833
 stub: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-id: 4965e035-e331-4a45-b2d2-cc31b1fe4f46
+id: dd3670e5-9fd9-4297-a563-97020921cff3
 title: rejectedDeliveries
 desc: ''
-updated: 1618573905154
-created: 1618573905154
+updated: 1618573870613
+created: 1618573870613
 stub: true
 ---
 
